@@ -5,8 +5,16 @@
 .card {
     margin-top: 20px;
 } */
-
-
+body {
+  margin: 0;
+  padding: 0;
+}
 section {
-    min-height:  420px;
+  min-height: 420px;
+}
+
+foooter {
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }
